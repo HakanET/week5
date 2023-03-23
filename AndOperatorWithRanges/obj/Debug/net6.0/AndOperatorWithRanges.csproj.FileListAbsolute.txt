@@ -1,0 +1,15 @@
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.exe
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.deps.json
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.runtimeconfig.json
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.dll
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\bin\Debug\net6.0\AndOperatorWithRanges.pdb
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.csproj.AssemblyReference.cache
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.AssemblyInfoInputs.cache
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.AssemblyInfo.cs
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.dll
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\refint\AndOperatorWithRanges.dll
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.pdb
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\AndOperatorWithRanges.genruntimeconfig.cache
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\AndOperatorWithRanges\obj\Debug\net6.0\ref\AndOperatorWithRanges.dll

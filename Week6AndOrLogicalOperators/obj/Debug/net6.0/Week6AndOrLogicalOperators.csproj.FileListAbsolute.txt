@@ -1,0 +1,15 @@
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\bin\Debug\net6.0\Week6AndOrLogicalOperators.exe
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\bin\Debug\net6.0\Week6AndOrLogicalOperators.deps.json
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\bin\Debug\net6.0\Week6AndOrLogicalOperators.runtimeconfig.json
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\bin\Debug\net6.0\Week6AndOrLogicalOperators.dll
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\bin\Debug\net6.0\Week6AndOrLogicalOperators.pdb
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\Week6AndOrLogicalOperators.csproj.AssemblyReference.cache
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\Week6AndOrLogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\Week6AndOrLogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\Week6AndOrLogicalOperators.AssemblyInfo.cs
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\Week6AndOrLogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\Week6AndOrLogicalOperators.dll
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\refint\Week6AndOrLogicalOperators.dll
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\Week6AndOrLogicalOperators.pdb
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\Week6AndOrLogicalOperators.genruntimeconfig.cache
+C:\Users\Hakan Efe\source\repos\Week6AndOrLogicalOperators\Week6AndOrLogicalOperators\obj\Debug\net6.0\ref\Week6AndOrLogicalOperators.dll
